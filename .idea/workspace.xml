@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="83db36f4-13e2-4dca-b279-678760d47757" name="Changes" comment="" />
+    <list default="true" id="83db36f4-13e2-4dca-b279-678760d47757" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VegetablesVsMummies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameBackgrounds/Map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameBackgrounds/StartMenuBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PeaShooter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/ReadySunflowerSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/cactusSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/cherrySprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/mummySprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/palmtreeSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/pea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/peashooterSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/pumpkinSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/smallwallnut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sprites/sunflowerSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StartMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sunflower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VegetableCards/pixil-frame-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VegetableGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VegetableSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zombie.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NWZOBQoxJn0UUm7gLNZI3AHERd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +58,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/VegetableCards" />
+      <recent name="$PROJECT_DIR$/src/Sprites" />
+      <recent name="$PROJECT_DIR$/src/Sprites/GameBackgrounds" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
